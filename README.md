@@ -13,4 +13,8 @@
 - www.helloworld.se/hejda 
 
 ### Kahoot
-- https://kahoot.it/ 
+- https://kahoot.it/
+
+### Tangentbord för nybörjare:
+- https://yoosseph.github.io/keyboard-helper/
+
