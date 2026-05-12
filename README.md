@@ -18,3 +18,5 @@
 ### Tangentbord för nybörjare:
 - https://yoosseph.github.io/keyboard-helper/
 
+## FÖR HELLOWORLD PERSONAL
+- https://docs.google.com/document/d/1jrz0euX9-J-am87XvDql6evpWMJ6wU38jv3h36rH5d4/edit?usp=sharing 
